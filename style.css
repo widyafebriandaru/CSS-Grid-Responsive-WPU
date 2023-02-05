@@ -30,6 +30,10 @@ body {
   box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
 }
 
+.container .header .features .price {
+  opacity: 0;
+}
+
 .hero {
   grid-area: hero;
   min-height: 300px;
